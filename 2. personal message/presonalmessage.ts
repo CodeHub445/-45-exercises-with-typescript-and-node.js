@@ -6,5 +6,5 @@ if( prensonname !== null && prensonname !==''){
     alert(`hello ${prensonname},would you like to learn some python today?`)
 }
 else{
-    alert(`you have to file your name`)
+    alert(`you have to file your name !`)
 }
